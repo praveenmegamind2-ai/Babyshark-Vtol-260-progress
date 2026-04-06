@@ -69,7 +69,8 @@ This redundancy ensures that even if one sensor fails or gives noisy data, the s
 
 ## 🚀 Outcome
 
-![VTOL Setup](your-image-here.jpg)
+![VTOL Setup](IMG_Vtol.jpg)
+![VTOL Setup](IMG_4055.mov)
 
 
 - Successfully achieved stable hover in VTOL configuration  
